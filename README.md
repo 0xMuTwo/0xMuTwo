@@ -4,6 +4,8 @@
 I come from a background in Cybersecurity, started working at [NSA](https://github.com/NationalSecurityAgency) quite a few years ago. 
 Since then, I've been focusing on working with cool people who move at a quicker pace, ideally on code that's for people instead of Gov's or Corporate!
 
+I'm a huge fan of distributed systems, microservice architecture, and blockchains.
+
 In my free time, I love to [write](https://blog.μ2.com) and build silly projects.
 
 This is a new account, please be kind & give me some time to build up some new projects for you to look at.
