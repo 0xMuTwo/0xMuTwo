@@ -1,5 +1,5 @@
 ### Hi there 👋
-## I'm a 22 year old builder, you can call me μ2 (Mew-Two)
+## You can call me μ2 (Mew-Two)
 
 I come from a background in Cybersecurity, started working at [NSA](https://github.com/NationalSecurityAgency) quite a few years ago. 
 Since then, I've been focusing on working with cool people who move at a quicker pace, ideally on code that's for people instead of Gov's or Corporate!
