@@ -1,4 +1,3 @@
-### Hi there 👋
 ## You can call me μ2 (Mew-Two)
 
 I come from a background in Cybersecurity, started working at [NSA](https://github.com/NationalSecurityAgency) quite a few years ago. 
