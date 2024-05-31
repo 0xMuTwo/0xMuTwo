@@ -3,7 +3,8 @@
 I come from a background in Cybersecurity, started working at [NSA](https://github.com/NationalSecurityAgency) quite a few years ago. 
 Since then, I've been focusing on working with cool people who move at a quicker pace, ideally on code that's for people instead of Governments.
 
-I'm a huge fan of distributed systems, microservice architecture, and blockchains.
+I'm a huge fan of distributed systems & microservice architecture.
+In practice, that means I'm a [Docker](https://www.docker.com/), [Go](https://go.dev/) and [React](https://react.dev/) maxi.
 
 In my free time, I love to [write](https://blog.μ2.com) and build silly projects.
 
