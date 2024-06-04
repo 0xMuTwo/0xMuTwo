@@ -12,6 +12,6 @@ This is a new account, please be kind & give me some time to build up some new p
 I'm not taking anything old with me.
 
 Here's some stuff I've done:
-- [Nexum](https://github.com/0xMuTwo/nexum) SaaS demo for Uni, vectorizing PDFs and using them in using a [Retrieval Augmented Generation](https://aws.amazon.com/what-is/retrieval-augmented-generation/) AI model via [Pinecone](https://www.pinecone.io/)
+- [Nexum](https://github.com/0xMuTwo/nexum) SaaS project, vectorizing PDFs and using them in using a [Retrieval Augmented Generation](https://aws.amazon.com/what-is/retrieval-augmented-generation/) AI model via [Pinecone](https://www.pinecone.io/)
 - [GloveTG](https://github.com/0xMuTwo/GloveTG_OpenSourced) Opensourced the Frontend for Telegram Blockchain app. Allowing purchasing crypto on Solana via text message.
 - [Gauntlet](https://github.com/0xMuTwo/Gauntlet_Deployment) A ton of Bash scripts for automating the process of delpoying Solana Meme tokens.
